@@ -2,6 +2,7 @@
 
 <br>
 
+[cap-cronometro.webm](https://github.com/RonaldoFidelis/cronometro-js/assets/92171641/28bb2bca-a4bf-46ae-ab89-645ee42a2e03)
 
 <br>
 
