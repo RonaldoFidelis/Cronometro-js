@@ -52,7 +52,5 @@ function clearTime(){
 };
 
 btn_start.addEventListener("click", startTime);
-
 btn_pause.addEventListener("click", pauseTime);
-
 btn_clear.addEventListener("click", clearTime);
